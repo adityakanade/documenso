@@ -8,7 +8,7 @@ msgstr ""
 "Language: de\n"
 "Project-Id-Version: documenso-app\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-27 16:03\n"
+"PO-Revision-Date: 2024-08-29 02:20\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -1533,7 +1533,7 @@ msgstr ""
 #: apps/web/src/app/(dashboard)/settings/tokens/page.tsx:75
 #: apps/web/src/app/(teams)/t/[teamUrl]/settings/tokens/page.tsx:108
 #~ msgid "Expires on <0/>"
-#~ msgstr ""
+#~ msgstr "Expires on <0/>"
 
 #: apps/web/src/app/(dashboard)/admin/documents/[id]/admin-actions.tsx:42
 msgid "Failed to reseal document"
@@ -4401,3 +4401,4 @@ msgstr ""
 #: apps/web/src/app/(teams)/t/[teamUrl]/settings/tokens/page.tsx:87
 msgid "Your tokens will be shown here once you create them."
 msgstr ""
+
